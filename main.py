@@ -21,7 +21,7 @@ if __name__ == '__main__':
     #group.addMotor(x)
     #group.addMotor(y)
     group.printMotorGroups()
-    group.setSpeed(.75)
+    group.setSpeed(.5)
     group.printMotorGroups()
 
 
